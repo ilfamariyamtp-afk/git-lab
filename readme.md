@@ -1,3 +1,3 @@
-Welcome to our BCA Portal 
+Welcome to our College Portal 
 
 This project is created for learning Git and GitHub.
